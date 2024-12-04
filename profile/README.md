@@ -1,16 +1,16 @@
 # Meowrch
 
-Добро пожаловать в организацию "meowrch". 
-Meowrch - дистрибутив, основанный на Arch, заточенный под максимальную производительность, эргономичность и красоту.
-В данной организации опубликованы все репозитории, которые связаны с дистрибутивом.
+Welcome to the meowrch organization. 
+Meowrch is an Arch-based distribution designed to maximize performance, ergonomics, and beauty.
+All repositories related to the distribution are published in this organization.
 
-## Контакты
+## Contact Us
+If you have any questions or suggestions, feel free to contact me:
 
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
-
+- Github: [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
 - Email: dimflix.official@gmail.com
-- Телеграм: [@dimflix_official](https://t.me/dimflix_official)
+- Telegram: [@dimflix_official](https://t.me/dimflix_official)
 
-## Лицензия
+## License
 
-Все проекты в этой организации лицензированы по лицензии MIT, если явно не указано иное.
+All projects in this organization are licensed under the MIT license unless explicitly stated otherwise.
