@@ -61,8 +61,6 @@ For 10 years, Nemo users asked for one feature: **file tags**. No one did it. So
 
 Tired of re-pairing Bluetooth devices every time you switch OS? BlueVein automatically syncs pairing keys, making dual-boot seamless.
 
-> [!WARNING]
-**Currently under development.**
 
 ***
 
